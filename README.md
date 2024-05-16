@@ -2,6 +2,12 @@
 
 
 - 🌱 I’m currently learning **Elixir, Docker and AWS**
+<h3 align="left">Learning this technologies:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,firebase,elixir,AWS&perline=14"/>
+  </a>
+</p>
 - ☁️ I have interest in cloud computing and delevoping any sowftware. So,I'm learning **AWS, Elixir and DataScience tools**
 - 💬 Ask me about **API's, SQL, Flask, Automation,Swift and Cibersecurity**
 - 📫 How to reach me **brunogaha@gmail.com**
