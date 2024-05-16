@@ -16,6 +16,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,cpp,css,discord,docker,firebase,github,html,js,linux,md,mysql,py,vscode,bash,cmake,django,flask,ai,neovim,powershell,replit,sqlite,stackoverflow,swift,visualstudio&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,cpp,css,discord,docker,firebase,github,html,js,linux,md,mysql,py,vscode,bash,cmake,django,flask,ai,ps,pr,figma,neovim,powershell,replit,sqlite,stackoverflow,swift,visualstudio&perline=14"/>
   </a>
 </p>
