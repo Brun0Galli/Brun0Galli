@@ -8,7 +8,7 @@
 <h3 align="left">Learning this technologies:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,firebase,elixir,aws&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=firebase,aws&perline=14"/>
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>
@@ -21,6 +21,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cmake,clion,cs,cpp,css,discord,docker,firebase,github,html,js,md,mysql,pycharm,py,django,flask,vscode,bash,ai,ps,pr,figma,powershell,replit,sqlite,stackoverflow,swift,visualstudio,kali,windows,linux,apple&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=docker,git,elixir,py,cs,cpp,swift,js,mysql,bootstrap,html,md,css,cmake,clion,pycharm,discord,firebase,github,django,flask,vscode,ai,ps,pr,figma,powershell,bash,replit,sqlite,stackoverflow,visualstudio,kali,windows,linux,apple,ubuntu&perline=14"/>
   </a>
 </p>
