@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning **Elixir, Docker and AWS**
+- 🌱 I’m currently learning **AWS and Google Cibersecurity**
 - ☁️ I have interest in cloud computing and delevoping any sowftware. So,I'm learning **AWS, Elixir and DataScience tools**
 - 💬 Ask me about **API's, SQL, Flask, Automation,Swift and Cibersecurity**
 - 📫 How to reach me **brunogaha@gmail.com**
