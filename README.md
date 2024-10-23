@@ -1,10 +1,19 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning **AWS and Google Cibersecurity**
-- ☁️ I have interest in cloud computing and delevoping any sowftware. So,I'm learning **AWS, Elixir and DataScience tools**
-- 💬 Ask me about **API's, SQL, Flask, Automation,Swift and Cibersecurity**
+- 🌱 I’m currently focuse on learning **AWS and Google Cloud Cybersecurity** to enhance my expertise in cloud infraestrucutre and security practices.
+- ☁️ I have a strong interest in cloud computing , software development,and exproing autmation tools.I'm expanding my skill set by learning **Elixir, DataScience tools, and AI/ML technologies** to stay ahead of evolving trends in the industry.
+- 💬 Feel free to ask me about **APIs, SQL, Flask, Swift, full-stack development, automation, and cybersecurity best practices, including secure coding, encryption, and authentication.**
 - 📫 How to reach me **brunogaha@gmail.com**
+
+<h3 align="left">Key Skills and Tchnologies </h3>
+- Proficient in cloud computing platforms (AWS, Google Cloud)
+- Strong understanding of cybersecurity protocols, inlcuding network security  and encryption techniques
+- Hands-on experience with APIs (design and integration), SQL, Flask, automation frameworks, and full-satck development
+- Familiarity with Agile methodologies, DevOps practices, and CI/CD pipelines to streamline software development
+- Data science and machine learning tools for building data-driven applications adn intelligent systems
+- Proficient in UI/UX design, imporving user experiences, and building scalable applications.
+- Skilled in software and managing the full Software Development Lifecycle (SDLC)
 <h3 align="left">Learning this technologies:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
