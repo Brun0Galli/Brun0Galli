@@ -7,13 +7,8 @@
 - 📫 How to reach me **brunogaha@gmail.com**
 
 <h3 align="left">Key Skills and Tchnologies </h3>
-- Proficient in cloud computing platforms (AWS, Google Cloud).
-- Strong understanding of cybersecurity protocols, inlcuding network security  and encryption techniques.
-- Hands-on experience with APIs (design and integration), SQL, Flask, automation frameworks, and full-satck development.
-- Familiarity with Agile methodologies, DevOps practices, and CI/CD pipelines to streamline software development.
-- Data science and machine learning tools for building data-driven applications adn intelligent systems.
-- Proficient in UI/UX design, imporving user experiences, and building scalable applications.
-- Skilled in software and managing the full Software Development Lifecycle (SDLC).
+- Proficient in cloud computing platforms (AWS, Google Cloud)
+
 
 <h3 align="left">Learning this technologies:</h3>
 <p align="center">
