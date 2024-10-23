@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
- 🌱 -I’m currently focuse on learning **AWS and Google Cloud Cybersecurity** to enhance my expertise in cloud infraestrucutre and security practices.
+- 🌱 I’m currently focuse on learning **AWS and Google Cloud Cybersecurity** to enhance my expertise in cloud infraestrucutre and security practices.
 - ☁️ I have a strong interest in cloud computing , software development,and exproing autmation tools.I'm expanding my skill set by learning **Elixir, DataScience tools, and AI/ML technologies** to stay ahead of evolving trends in the industry.
 - 💬 Feel free to ask me about **APIs, SQL, Flask, Swift, full-stack development, automation, and cybersecurity best practices, including secure coding, encryption, and authentication.**
 - 📫 How to reach me **brunogaha@gmail.com**
