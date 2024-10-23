@@ -5,7 +5,7 @@
 - 💬 Feel free to ask me about **APIs, SQL, Flask, Swift, full-stack development, automation, and cybersecurity best practices, including secure coding, encryption, and authentication.**
 - 📫 How to reach me **brunogaha@gmail.com**
 
-<h3 align="left">Key Skills and Tchnologies </h3>
+### Key Skills and Tchnologies
 -   Proficient in cloud computing platforms (AWS, Google Cloud)
 - Strong understanding of cybersecurity protocols, inlcuding network security  and encryption techniques.
 - Hands-on experience with APIs (design and integration), SQL, Flask, automation frameworks, and full-satck development.
