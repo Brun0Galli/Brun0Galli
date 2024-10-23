@@ -7,7 +7,7 @@
 - 📫 How to reach me **brunogaha@gmail.com**
 
 <h3 align="left">Key Skills and Tchnologies </h3>
-- Proficient in cloud computing platforms (AWS, Google Cloud)
+-Proficient in cloud computing platforms (AWS, Google Cloud)
 
 
 <h3 align="left">Learning this technologies:</h3>
