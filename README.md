@@ -1,3 +1,5 @@
+<img src= "https://github.com/user-attachments/assets/b8ceefe3-4007-47b1-9023-c8b9d5da6efb">
+
 ### Hi there 👋
 
 - 🌱 I’m currently focused on learning **AWS and Google Cloud Cybersecurity** to enhance my expertise in cloud infraestructure and security practices.
