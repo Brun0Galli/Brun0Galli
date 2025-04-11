@@ -33,6 +33,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,elixir,py,cs,cpp,swift,js,mysql,bootstrap,html,md,css,cmake,clion,pycharm,discord,firebase,github,django,flask,vscode,ai,ps,pr,figma,powershell,bash,replit,sqlite,stackoverflow,visualstudio,kali,windows,linux,apple,ubuntu&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=docker,git,elixir,py,cs,cpp,swift,java,js,mysql,bootstrap,html,md,css,cmake,clion,pycharm,discord,firebase,github,django,flask,vscode,ai,ps,pr,figma,powershell,bash,replit,sqlite,stackoverflow,visualstudio,kali,windows,linux,apple,ubuntu&perline=14"/>
   </a>
 </p>
